@@ -1,0 +1,14 @@
+{
+    "description": "Team toolbox webapp, a project to help you work or play with teams/groups randomly!",
+    "framework": "ubuntu-sdk-15.04",
+    "hooks": {
+        "ttb": {
+        "apparmor": "app.json",
+        "desktop": "app.desktop"
+        }
+    },
+    "maintainer": "Lionel Duboeuf <lionel.duboeuf@gmail.com>",
+	"name": "ttb.lduboeuf",
+    "title": "Team Toolbox",
+    "version": "0.3"
+}

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Team ToolBox
+Type=Application
+Icon=icon.png
+Exec=webapp-container  --webappUrlPatterns=* https://lduboeuf.github.io/team-tool-box
+Terminal=false
+X-Ubuntu-Touch=true
